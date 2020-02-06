@@ -61,6 +61,8 @@ public class LoginTest {
 		
 		driver.findElement(By.xpath("//button[@class='btn buttonFull button ui-btn ui-shadow ui-corner-all']")).click();
 		
+		System.out.println("Logs created");
+		
 		
 		
 	}
