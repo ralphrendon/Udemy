@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Git Testing" duration-ms="2363" started-at="2020-02-05T17:47:14 SGT" finished-at="2020-02-05T17:47:17 SGT">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="2363" started-at="2020-02-05T17:47:14 SGT" finished-at="2020-02-05T17:47:17 SGT">
+      <class name="com.w2a.testcases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.testcases.LoginTest@68be2bc2]" name="setUp" is-config="true" duration-ms="12527" started-at="2020-02-05T17:47:02 SGT" finished-at="2020-02-05T17:47:14 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:com.w2a.testcases.LoginTest@68be2bc2]" name="doLogin" duration-ms="2345" started-at="2020-02-05T17:47:14 SGT" finished-at="2020-02-05T17:47:17 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.LoginTest@68be2bc2]" name="tearDown" is-config="true" duration-ms="586" started-at="2020-02-05T17:47:17 SGT" finished-at="2020-02-05T17:47:17 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.testcases.LoginTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Git Testing -->
+</testng-results>
